@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=powerofbuddha&color=f4ceef)
+![](https://komarev.com/ghpvc/?username=passionofbuddha&color=f4ceef)
 <!--
 **powerofbuddha/powerofbuddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
